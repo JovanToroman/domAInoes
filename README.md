@@ -12,3 +12,5 @@ Finally, we run the game by calling the appropriate method on the game object.
 ------------------------------------------
 
 AI uses a strong heuristic and minimax search with alpha-beta pruning.
+
+More info can be found in a report on arXiv: https://arxiv.org/submit/2713785/view
